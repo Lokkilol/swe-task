@@ -1,13 +1,13 @@
-package jwu.swetask;
+package main.java;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SwetaskApplication {
+public class SweTaskApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SwetaskApplication.class, args);
+		SpringApplication.run(SweTaskApplication.class, args);
 	}
 
 }
